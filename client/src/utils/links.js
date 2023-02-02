@@ -1,5 +1,5 @@
 import {IoBarChartSharp} from 'react-icons/io5'
-import {MdQuertyStats} from 'react-icons/md'
+import {MdWork} from 'react-icons/md'
 import { FaWpforms } from 'react-icons/fa'
 import {ImProfile} from 'react-icons/im'
 
@@ -14,7 +14,7 @@ const links = [
         id:2,
         text:'All jobs',
         path:'all-jobs',
-        icon:<MdQuertyStats/>
+        icon:<MdWork/>
     },
     {
         id:3,
